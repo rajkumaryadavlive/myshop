@@ -1,4 +1,4 @@
-import classes from '../../styles/AuthForm.module.css';
+import classes from '../../styles/Main.module.css';
 import { useSelector, useDispatch } from 'react-redux';
 import { login } from '../../actions';
 import { useState } from 'react';
